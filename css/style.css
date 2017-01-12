@@ -12,15 +12,17 @@
 	font-size:120%;	
 }
 
-.carousel-caption {
-	color: #8B0000;
-	text-align: left;
-	padding:0px;
+.carousel-caption h3 {
+    color: white;
+    text-align: left;
+    padding:10px;
+    background-color: #640408;
 }
 
 .carousel-caption ul {
-    color: #000000;
+    color: white;
     font-size: 150%;
+    background-color: grey;
 }
 
 .carousel .item {
