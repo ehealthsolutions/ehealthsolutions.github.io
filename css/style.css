@@ -17,12 +17,14 @@
     text-align: left;
     padding:10px;
     background-color: #640408;
+    border-radius: 15px;
 }
 
 .carousel-caption ul {
     color: white;
     font-size: 150%;
     background-color: grey;
+    border-radius: 15px
 }
 
 .carousel .item {
