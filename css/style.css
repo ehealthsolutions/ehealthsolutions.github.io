@@ -49,6 +49,54 @@
     background: url(../img/home/bg-content.jpg) 50% 50%;
 }
 
+.box{
+    min-height: 250px;
+    color: #434955;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.box img {
+    width: 100%;
+    overflow: hidden;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    display: block;
+}
+.box-heading {
+    overflow: hidden;
+}
+
+.box-body {
+    height: 150px;
+    padding: 0 10px 20px 10px;
+    border: 2px solid #eaedf2;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.panel-2 {
+   height: 200px;
+}
+
+.vedio {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.redDiv{
+    background-color: #8B0000;
+    margin-left: 50px;
+    height: 250px;
+    color: white;
+}
+iframe {
+    margin-top: 15px;
+    border-width: 7px 0px 7px 0px;
+    border-style: solid;
+    border-color:black;
+    width: 100%;
+}
+
 .thumbnail {
   opacity: 1.0;
   filter: alpha(opacity=100);
