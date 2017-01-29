@@ -1,5 +1,5 @@
 .navbar-height{
-	height:110px;
+	height:80px;
 }
 
 .navbar-brand {
@@ -42,7 +42,7 @@
 }
 
 .marginTop {
-    margin-top:150px;
+    margin-top:100px;
 }
 
 .background-carousel{
@@ -62,6 +62,7 @@
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     display: block;
+    border: 2px solid #eaedf2;
 }
 .box-heading {
     overflow: hidden;
@@ -86,7 +87,7 @@
 .redDiv{
     background-color: #8B0000;
     margin-left: 50px;
-    height: 250px;
+    height: 230px;
     color: white;
 }
 iframe {
@@ -96,13 +97,21 @@ iframe {
     border-color:black;
     width: 100%;
 }
+.clearMargin{
+    margin-top: 4px;
+}
 
-.thumbnail {
+.leftMargin {
+    margin-left: 15px;
+
+}
+
+.workImg {
   opacity: 1.0;
   filter: alpha(opacity=100);
 }
 
-.thumbnail:hover {
+.workImg:hover {
     opacity: 0.4;
     filter: alpha(opacity=40);
 }
